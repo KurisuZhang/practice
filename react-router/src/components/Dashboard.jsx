@@ -13,10 +13,10 @@ function Dashboard() {
         <div className="flex-none">
           <ul className="menu menu-horizontal px-1">
             <li>
-              <Link to="overview">Overview</Link>
+              <Link to="overview">Product</Link>
             </li>
             <li>
-              <Link to="settings">Settings</Link>
+              <Link to="settings">Form</Link>
             </li>
           </ul>
         </div>
